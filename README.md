@@ -4,7 +4,7 @@
 > [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy), reimagined
 > for the Solar System, deep-sky objects, and the larger universe.
 
-[**Live Demo →**](https://preview-<bot-id>.space-z.ai/)
+[**Live Demo →**](https://cosmic-atlas-theta.vercel.app/)
 
 Click any planet, moon, star, or galaxy to dive into a scientifically
 accurate profile — physical data, internal structure, exploration
